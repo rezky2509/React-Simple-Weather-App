@@ -1,6 +1,12 @@
-# React + TypeScript + Vite
+Hi There!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is simple React Basic Weather app that use Material UI design and React Custom Hook. 
+This only work for Malaysia country. This web app currently utilize openweather API. 
+
+If you want to see live in action feel free to use this link 
+[Live Web App](https://production.d1ddn1dm0dm61h.amplifyapp.com/)
+
+This live web app was published using AWS services. 
 
 CSS Library 
 - Tailwindscss V4.1  
